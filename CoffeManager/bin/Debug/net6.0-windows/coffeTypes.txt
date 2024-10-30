@@ -1,0 +1,8 @@
+espresso,1,1,0
+double espresso,2,1,0
+cappuchino,1,1,1
+latte,1,1,1
+latte macchiato,1,1,2
+kawa czarna,1,2,0
+kawa po hiszpańsku,2,1,1
+flat white,2,1,1

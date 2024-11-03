@@ -20,6 +20,14 @@ namespace CoffeManager
             }
             file.Close();
         }
+        void SaveCoffeRecord(string coffeName)
+        {
+            DateTime dt = DateTime.Now;
+            StreamWriter file = new("coffeRecords.txt", true);
+            string line = $"{{ name: {coffeName}, date: {dt} }}";
+            file.WriteLine(line);
+            file.Close();
+        }
         void MakeCoffe(Coffe coffe, ProgressBar cafeVal, ProgressBar waterVal, ProgressBar milkVal)
         {
             if (cafeVal.Value - coffe.coffeReq < 0)
@@ -41,6 +49,7 @@ namespace CoffeManager
             waterVal.Value -= coffe.waterReq;
             milkVal.Value -= coffe.milkReq;
 
+            SaveCoffeRecord(coffe.name);
             MessageBox.Show($"Zrobiono: {coffe.name}");
         }
         private void button1_Click(object sender, EventArgs e)
@@ -55,13 +64,6 @@ namespace CoffeManager
                         MakeCoffe(coffe, CoffeBar, WaterBar, MilkBar);
                     }
                 }
-
-                //if (CoffeBar.Value == 0) MessageBox.Show("za mało kawy");
-                //else
-                //{
-                //  CoffeBar.Value -= 1;
-                //    MessageBox.Show(comboBox1.Items[comboBox1.SelectedIndex].ToString());
-                //}
             }
         }
 

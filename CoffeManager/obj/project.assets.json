@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Marta B\\.nuget\\packages\\": {}
+    "C:\\Users\\48576\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marta B\\source\\repos\\CoffeManager\\CoffeManager\\CoffeManager.csproj",
+      "projectUniqueName": "C:\\Users\\48576\\source\\repos\\CoffeManager\\CoffeManager\\CoffeManager.csproj",
       "projectName": "CoffeManager",
-      "projectPath": "C:\\Users\\Marta B\\source\\repos\\CoffeManager\\CoffeManager\\CoffeManager.csproj",
-      "packagesPath": "C:\\Users\\Marta B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marta B\\source\\repos\\CoffeManager\\CoffeManager\\obj\\",
+      "projectPath": "C:\\Users\\48576\\source\\repos\\CoffeManager\\CoffeManager\\CoffeManager.csproj",
+      "packagesPath": "C:\\Users\\48576\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\48576\\source\\repos\\CoffeManager\\CoffeManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marta B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\48576\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

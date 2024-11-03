@@ -14,3 +14,20 @@ C:\Users\Marta B\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows
 C:\Users\Marta B\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.pdb
 C:\Users\Marta B\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.genruntimeconfig.cache
 C:\Users\Marta B\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\ref\CoffeManager.dll
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\bin\Debug\net6.0-windows\CoffeManager.exe
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\bin\Debug\net6.0-windows\CoffeManager.deps.json
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\bin\Debug\net6.0-windows\CoffeManager.runtimeconfig.json
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\bin\Debug\net6.0-windows\CoffeManager.dll
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\bin\Debug\net6.0-windows\CoffeManager.pdb
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.Form1.resources
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.csproj.GenerateResource.cache
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.AssemblyInfoInputs.cache
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.AssemblyInfo.cs
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.csproj.CoreCompileInputs.cache
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.sourcelink.json
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.dll
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\refint\CoffeManager.dll
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.pdb
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\CoffeManager.genruntimeconfig.cache
+C:\Users\48576\source\repos\CoffeManager\CoffeManager\obj\Debug\net6.0-windows\ref\CoffeManager.dll
